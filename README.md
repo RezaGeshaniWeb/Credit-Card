@@ -1,2 +1,19 @@
 # Credit-Card
-This is a sample of Credit Card, which has been developed with HTML , CSS , TailwindCSS and Javascript.
+
+![Alt text](https://github.com/user-attachments/assets/207072dc-1353-465a-829f-5039102aeae8)
+
+
+![Alt text](https://github.com/user-attachments/assets/31ec7bba-6bc5-49c2-bd54-e30639ec1812)
+
+
+- [Online Demo](https://rezageshaniweb.github.io/Credit-Card/)
+
+- Developed by Reza Geshani
+
+- Created - 2025-01-14
+
+- Technologies Used - Html , Css , TailwindCSS , Javascript
+
+- Role - Frontend
+
+- How to reach me : with my [instagram](https://www.instagram.com/rezageshani_web) and [linkedin](http://www.linkedin.com/in/reza-geshani-web)
